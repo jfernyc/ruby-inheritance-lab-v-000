@@ -1,4 +1,4 @@
-class Student < User 
+ b class Student < User 
   
    
  def initialize
